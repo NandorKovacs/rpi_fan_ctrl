@@ -619,6 +619,10 @@
     [
       "fe7e04df-9c43-4752-9649-005847190336",
       "ethernet"
+    ],
+    [
+      "8db53986-d1dc-49ff-b00f-ad819ccab880",
+      "power"
     ]
   ],
   "text_variables": {

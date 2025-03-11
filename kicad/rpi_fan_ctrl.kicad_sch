@@ -6,7 +6,89 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 146.05 81.28)
+		(at 98.933 83.82)
+		(size 12.7 12.954)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8db53986-d1dc-49ff-b00f-ad819ccab880")
+		(property "Sheetname" "power"
+			(at 98.933 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 98.933 97.3586 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3.3V" passive
+			(at 111.633 93.98 0)
+			(uuid "8fb82909-1a77-413d-95fd-4a663640bd07")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "5V" passive
+			(at 111.633 88.9 0)
+			(uuid "22193527-30fb-4930-94ed-464131fa4808")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "12V" passive
+			(at 111.633 91.44 0)
+			(uuid "13b0a6e1-9e5b-4b3a-94ef-7a66df6a5299")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GND" passive
+			(at 111.633 86.36 0)
+			(uuid "58d291c2-e3e8-4906-8d05-08252bb5d9bf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "rpi_fan_ctrl"
+				(path "/ea853fa5-7daa-4d53-920c-149f1dc74042"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 145.288 80.518)
 		(size 24.13 22.86)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +104,7 @@
 		)
 		(uuid "a778e899-dab6-488b-99d3-e495ca24ca54")
 		(property "Sheetname" "rp2040"
-			(at 146.05 80.5684 0)
+			(at 145.288 79.8064 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,7 +113,7 @@
 			)
 		)
 		(property "Sheetfile" "rp2040.kicad_sch"
-			(at 146.05 104.7246 0)
+			(at 145.288 103.9626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
