@@ -473,189 +473,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WIZ850io_SCH_V110-altium-import:root_0_2.54mm 1x6 Pin Header DIP_Scott_lib.IntLib"
-			(pin_numbers
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "2.54mm 1x6 Pin Header DIP"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*IDC-1X6*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "root_0_2.54mm 1x6 Pin Header DIP_Scott_lib.IntLib_1_0"
-				(rectangle
-					(start 2.54 10.16)
-					(end -2.54 -7.62)
-					(stroke
-						(width 0.0254)
-						(type solid)
-						(color 128 0 0 1)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at -5.08 7.62 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 5.08 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 2.54)
-					(name "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 2.54)
-					(name "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "WIZ850io_SCH_V110-altium-import:root_0_CAP-0402_Scott_lib.IntLib"
 			(pin_numbers
 				(hide yes)
@@ -2289,189 +2106,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WIZ850io_SCH_V110-altium-import:root_0_mirrored_2.54mm 1x6 Pin Header DIP_Scott_lib.IntLib"
-			(pin_numbers
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "2.54mm 1x6 Pin Header DIP"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*IDC-1X6*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "root_0_mirrored_2.54mm 1x6 Pin Header DIP_Scott_lib.IntLib_1_0"
-				(rectangle
-					(start 2.54 10.16)
-					(end -2.54 -7.62)
-					(stroke
-						(width 0.0254)
-						(type solid)
-						(color 128 0 0 1)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 5.08 7.62 180)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 5.08 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 2.54)
-					(name "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -5.08 180)
-					(length 2.54)
-					(name "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "WIZ850io_SCH_V110-altium-import:root_0_mirrored_BS-R250210_Edward.IntLib"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3636,12 +3270,6 @@
 		(uuid "0f397233-1125-465f-a28a-45afdc5192bb")
 	)
 	(junction
-		(at 228.6 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1876fdfe-74de-4a96-9171-09ca8db810f0")
-	)
-	(junction
 		(at 139.7 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3828,6 +3456,12 @@
 		(uuid "abdaf121-72ad-4786-9880-9dcd2fd853e3")
 	)
 	(junction
+		(at 228.6 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "add27071-5d4a-4d90-a259-79c91932789e")
+	)
+	(junction
 		(at 27.94 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3867,7 +3501,7 @@
 		(at 208.28 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "cdb87305-d364-4315-a159-8a09a366a1c5")
+		(uuid "cdc591ab-1a71-40df-9885-97ebd602fd60")
 	)
 	(junction
 		(at 66.04 106.68)
@@ -3956,10 +3590,6 @@
 	(no_connect
 		(at 157.48 144.78)
 		(uuid "c67087df-e034-4a06-89d0-4aea9a4f592b")
-	)
-	(no_connect
-		(at 154.94 48.26)
-		(uuid "c8af94ea-5325-4f71-b133-ec13072dbc75")
 	)
 	(no_connect
 		(at 142.24 129.54)
@@ -6535,6 +6165,127 @@
 		)
 		(uuid "e3091c4a-6aac-4dee-aac4-e1f31d74b38f")
 	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 106.68 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1b6e1b43-d5cc-44f3-9055-bd7147dec0aa")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 106.68 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "22bf984f-cb7c-4c9d-a261-629c42830995")
+	)
+	(hierarchical_label "SCSn"
+		(shape input)
+		(at 106.68 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3a83d3f2-fb26-4dc3-8b74-a051707ad8c8")
+	)
+	(hierarchical_label "3.3V"
+		(shape passive)
+		(at 154.94 43.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3fdd1ba7-2109-4d72-bdd0-9ebb85916c52")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 106.68 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "52029e02-de96-469c-8c18-c7d3a4becbab")
+	)
+	(hierarchical_label "SCLK"
+		(shape input)
+		(at 106.68 48.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "561c7e99-9219-4939-8a3c-6c6378d554ab")
+	)
+	(hierarchical_label "RSTn"
+		(shape input)
+		(at 154.94 50.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6ab22cae-6bf4-4bd1-9192-9ca4fca935af")
+	)
+	(hierarchical_label "3.3V"
+		(shape passive)
+		(at 154.94 45.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "74c24e99-45ce-4566-a90f-1bc92e7249be")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 154.94 40.64 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "781b42cb-57ce-4008-8ac1-8efdd953fb86")
+	)
+	(hierarchical_label "INTn"
+		(shape input)
+		(at 106.68 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ac93f4e3-4e53-4bcf-992d-c2554da6bb27")
+	)
+	(hierarchical_label "MISO"
+		(shape output)
+		(at 154.94 53.34 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d870ff8e-37fc-4ca2-92fe-5f033c719a9c")
+	)
 	(symbol
 		(lib_id "WIZ850io_SCH_V110-altium-import:root_0_RES-0402_Scott_lib.IntLib")
 		(at 106.68 116.84 0)
@@ -7625,161 +7376,6 @@
 		)
 	)
 	(symbol
-		(lib_id "WIZ850io_SCH_V110-altium-import:root_0_mirrored_2.54mm 1x6 Pin Header DIP_Scott_lib.IntLib")
-		(at 149.86 48.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2639ebcc-7c7a-4af9-b61f-227c59cb8fc1")
-		(property "Reference" "J3"
-			(at 147.32 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "2.54mm 1x6 Pin Header DIP"
-			(at 132.08 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "IDC-1X6"
-			(at 149.86 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 149.86 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "2.54mm 1x6 Pin Header DIP"
-			(at 149.86 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0c386e2a-cd09-4eef-aa5f-f65a22c43ee1")
-		)
-		(pin "2"
-			(uuid "14b2ed4c-1de7-4fce-84ac-defa708b45c8")
-		)
-		(pin "3"
-			(uuid "155422ed-04c5-4188-b7d2-2c264f252891")
-		)
-		(pin "4"
-			(uuid "1328b7a7-01e5-4806-b050-d2e018f902a9")
-		)
-		(pin "5"
-			(uuid "ac2a186b-fb94-4ffc-b6de-1f6085ed7818")
-		)
-		(pin "6"
-			(uuid "fe20a923-5b4a-402e-8fae-74755cba3c42")
-		)
-		(instances
-			(project ""
-				(path "/4522fa51-c122-40c4-9740-2bb25e8cd13f"
-					(reference "J2")
-					(unit 1)
-				)
-			)
-			(project "rpi_fan_ctrl"
-				(path "/ea853fa5-7daa-4d53-920c-149f1dc74042/fe7e04df-9c43-4752-9649-005847190336"
-					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "WIZ850io_SCH_V110-altium-import:3.3V_A_BAR")
-		(at 93.98 167.64 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2ad23149-dd8f-4ef6-9c82-c10562feaed6")
-		(property "Reference" "#PWR0113"
-			(at 93.98 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3.3V_A"
-			(at 93.98 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 93.98 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 93.98 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 93.98 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin ""
-			(uuid "9a2567db-004d-4f9c-89c0-6ed5118447af")
-		)
-		(instances
-			(project ""
-				(path "/4522fa51-c122-40c4-9740-2bb25e8cd13f"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "rpi_fan_ctrl"
-				(path "/ea853fa5-7daa-4d53-920c-149f1dc74042/fe7e04df-9c43-4752-9649-005847190336"
-					(reference "#PWR0113")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "WIZ850io_SCH_V110-altium-import:root_0_RES-0402_Scott_lib.IntLib")
 		(at 236.22 116.84 0)
 		(unit 1)
@@ -8552,87 +8148,62 @@
 		)
 	)
 	(symbol
-		(lib_id "WIZ850io_SCH_V110-altium-import:root_0_2.54mm 1x6 Pin Header DIP_Scott_lib.IntLib")
-		(at 111.76 48.26 0)
+		(lib_id "WIZ850io_SCH_V110-altium-import:3.3V_A_BAR")
+		(at 93.98 167.64 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "67facc6d-7acb-417e-9bee-efe0c44ef87a")
-		(property "Reference" "J2"
-			(at 109.22 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "2.54mm 1x6 Pin Header DIP"
-			(at 104.14 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "IDC-1X6"
-			(at 111.76 48.26 0)
+		(uuid "699a0470-6b48-4a75-99d4-bfc7b42c3caf")
+		(property "Reference" "#PWR0130"
+			(at 93.98 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Value" "3.3V_A"
+			(at 93.98 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(property "Datasheet" ""
-			(at 111.76 48.26 0)
+			(at 93.98 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
-		(property "Description" "2.54mm 1x6 Pin Header DIP"
-			(at 111.76 48.26 0)
+		(property "Description" ""
+			(at 93.98 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
-		(pin "1"
-			(uuid "89b9ad85-1895-48fd-bed2-781b81d6d92a")
-		)
-		(pin "2"
-			(uuid "5233c1be-e7e3-44b2-a2b7-bcc6cdd9ecee")
-		)
-		(pin "3"
-			(uuid "24a2478c-8a78-401a-bb03-ec120df43aa3")
-		)
-		(pin "4"
-			(uuid "db4db0ff-c681-4092-8ba2-0a7d8e790124")
-		)
-		(pin "5"
-			(uuid "3ab7af49-7a66-461b-a74a-215acf36657d")
-		)
-		(pin "6"
-			(uuid "4ba08ea0-41e1-4fbd-8c31-34c33f751d59")
+		(pin ""
+			(uuid "13a6bf03-1d07-45a8-9c23-1c4d489f84a7")
 		)
 		(instances
-			(project ""
-				(path "/4522fa51-c122-40c4-9740-2bb25e8cd13f"
-					(reference "J1")
-					(unit 1)
-				)
-			)
 			(project "rpi_fan_ctrl"
 				(path "/ea853fa5-7daa-4d53-920c-149f1dc74042/fe7e04df-9c43-4752-9649-005847190336"
-					(reference "J2")
+					(reference "#PWR0130")
 					(unit 1)
 				)
 			)
@@ -9143,74 +8714,6 @@
 		)
 	)
 	(symbol
-		(lib_id "WIZ850io_SCH_V110-altium-import:GND_POWER_GROUND")
-		(at 228.6 88.9 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7f681aa9-b61f-41e0-90d5-380c5d8cd952")
-		(property "Reference" "#PWR0101"
-			(at 228.6 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 228.6 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 228.6 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 228.6 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 228.6 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin ""
-			(uuid "5af27ff7-fb42-4773-a1c5-6a12045384e3")
-		)
-		(instances
-			(project ""
-				(path "/4522fa51-c122-40c4-9740-2bb25e8cd13f"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "rpi_fan_ctrl"
-				(path "/ea853fa5-7daa-4d53-920c-149f1dc74042/fe7e04df-9c43-4752-9649-005847190336"
-					(reference "#PWR0101")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "WIZ850io_SCH_V110-altium-import:root_1_RES-0402_Scott_lib.IntLib")
 		(at 129.54 132.08 0)
 		(unit 1)
@@ -9280,6 +8783,68 @@
 			(project "rpi_fan_ctrl"
 				(path "/ea853fa5-7daa-4d53-920c-149f1dc74042/fe7e04df-9c43-4752-9649-005847190336"
 					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "WIZ850io_SCH_V110-altium-import:GND_POWER_GROUND")
+		(at 228.6 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "895a0b91-bf1b-4133-b31b-43233f6c1329")
+		(property "Reference" "#PWR0129"
+			(at 228.6 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 228.6 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 228.6 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 228.6 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 228.6 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "9f12cca9-ea2c-4922-a198-b8fccb7950ff")
+		)
+		(instances
+			(project "rpi_fan_ctrl"
+				(path "/ea853fa5-7daa-4d53-920c-149f1dc74042/fe7e04df-9c43-4752-9649-005847190336"
+					(reference "#PWR0129")
 					(unit 1)
 				)
 			)
@@ -10296,6 +9861,68 @@
 		)
 	)
 	(symbol
+		(lib_id "WIZ850io_SCH_V110-altium-import:3.3V_D_BAR")
+		(at 208.28 76.2 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b9ced38f-4760-416c-b45e-58ba089d3f33")
+		(property "Reference" "#PWR0128"
+			(at 208.28 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3.3V_D"
+			(at 208.28 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.28 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 208.28 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "63a43074-7d4c-4674-a265-025a4340b5a2")
+		)
+		(instances
+			(project "rpi_fan_ctrl"
+				(path "/ea853fa5-7daa-4d53-920c-149f1dc74042/fe7e04df-9c43-4752-9649-005847190336"
+					(reference "#PWR0128")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "WIZ850io_SCH_V110-altium-import:3.3V_A_BAR")
 		(at 66.04 81.28 180)
 		(unit 1)
@@ -10569,74 +10196,6 @@
 			(project "rpi_fan_ctrl"
 				(path "/ea853fa5-7daa-4d53-920c-149f1dc74042/fe7e04df-9c43-4752-9649-005847190336"
 					(reference "#PWR0115")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "WIZ850io_SCH_V110-altium-import:3.3V_D_BAR")
-		(at 208.28 76.2 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d4c608aa-8ad4-4a31-92ae-d77a7a89a8b7")
-		(property "Reference" "#PWR0102"
-			(at 208.28 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3.3V_D"
-			(at 208.28 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 208.28 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 208.28 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 208.28 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin ""
-			(uuid "b4cd4f28-9479-4160-8b17-e96443127d28")
-		)
-		(instances
-			(project ""
-				(path "/4522fa51-c122-40c4-9740-2bb25e8cd13f"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "rpi_fan_ctrl"
-				(path "/ea853fa5-7daa-4d53-920c-149f1dc74042/fe7e04df-9c43-4752-9649-005847190336"
-					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
