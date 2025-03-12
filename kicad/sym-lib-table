@@ -3,4 +3,5 @@
   (lib (name "WIZ850IO")(type "KiCad")(uri "${KIPRJMOD}/lib/wiz850io/WIZ850IO.kicad_sym")(options "")(descr ""))
   (lib (name "WIZ850io_SCH_V110-altium-import")(type "KiCad")(uri "${KIPRJMOD}/lib/WIZ850io_SCH_V110-altium-import.kicad_sym")(options "")(descr ""))
   (lib (name "molex_micro-fit-tpa2-5pin")(type "KiCad")(uri "${KIPRJMOD}/lib/molex_mini-fit_jr_5/molex_mini-fit_jr_5.kicad_sym")(options "")(descr ""))
+  (lib (name "ABM8-272-T3")(type "KiCad")(uri "${KIPRJMOD}/lib/ABM8-272-T3/ABM8-272-T3.kicad_sym")(options "")(descr ""))
 )

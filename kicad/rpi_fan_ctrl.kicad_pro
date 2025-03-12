@@ -623,6 +623,14 @@
     [
       "8db53986-d1dc-49ff-b00f-ad819ccab880",
       "power"
+    ],
+    [
+      "a59f9da4-aef5-415f-90f5-f825017470f5",
+      "failsafe"
+    ],
+    [
+      "43af8feb-d994-4d2f-b112-1f2221f561e5",
+      "fans"
     ]
   ],
   "text_variables": {

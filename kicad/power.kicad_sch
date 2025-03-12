@@ -12,22 +12,22 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J"
-				(at 0 8.89 0)
+			(property "Reference" "J1"
+				(at 2.5399 8.89 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left)
 				)
 			)
 			(property "Value" "1726480105"
-				(at 0 -10.16 0)
+				(at 5.0799 8.89 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left)
 				)
 			)
 			(property "Footprint" "1726480105:MOLEX_1726480105"
@@ -390,7 +390,9 @@
 						(type none)
 					)
 				)
-				(pin passive line
+			)
+			(symbol "1726480105_1_0"
+				(pin power_out line
 					(at -5.08 5.08 0)
 					(length 5.08)
 					(name "1"
@@ -408,10 +410,10 @@
 						)
 					)
 				)
-				(pin passive line
+				(pin power_out line
 					(at -5.08 2.54 0)
 					(length 5.08)
-					(name "2"
+					(name "GND"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -426,7 +428,7 @@
 						)
 					)
 				)
-				(pin passive line
+				(pin power_out line
 					(at -5.08 0 0)
 					(length 5.08)
 					(name "3"
@@ -444,10 +446,10 @@
 						)
 					)
 				)
-				(pin passive line
+				(pin power_out line
 					(at -5.08 -2.54 0)
 					(length 5.08)
-					(name "4"
+					(name "GND"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -462,7 +464,7 @@
 						)
 					)
 				)
-				(pin passive line
+				(pin power_out line
 					(at -5.08 -5.08 0)
 					(length 5.08)
 					(name "5"

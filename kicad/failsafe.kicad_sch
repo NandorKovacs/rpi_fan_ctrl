@@ -1,0 +1,30 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "45b17275-6c05-4541-82d3-372b4c0bb057")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "healthy"
+		(shape input)
+		(at 77.47 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b8cd1aa7-cc51-4645-97c2-80fb649d46da")
+	)
+	(hierarchical_label "PWM_[1..5]"
+		(shape input)
+		(at 77.47 77.47 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cc37e50b-0304-4ce6-b61e-75044aecdfe3")
+	)
+)

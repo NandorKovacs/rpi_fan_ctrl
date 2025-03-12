@@ -6265,7 +6265,7 @@
 		(uuid "781b42cb-57ce-4008-8ac1-8efdd953fb86")
 	)
 	(hierarchical_label "INTn"
-		(shape input)
+		(shape output)
 		(at 106.68 53.34 0)
 		(effects
 			(font
